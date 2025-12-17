@@ -1,5 +1,8 @@
 /* first commit */
 h1 {
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
+    color: #cc5555;
+    font-family: Arial;
+}
+body {
+    background-color: #000000;
 }

@@ -1,0 +1,48 @@
+/* first commit */
+h1 {
+    color: #000000;
+    background-color: #ffb3c6;
+    font-family: Arial;
+    width: 500px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    boX-sizing: border-box;
+    padding-left: 10px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+p{
+    background-color: #f286d9;
+}
+div {
+    width: 400px;
+    height: 200px;
+    
+}
+#one {
+    background-color: #ffb3c6;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    boX-sizing: border-box;
+}
+#two {
+    background-color: #ff8fab;
+    border-style: dashed;
+    border-width: 6px;
+    border-color: #530b27;
+    box-sizing: border-box;
+}
+#three {
+    background-color: #fb6f92;
+    border:7px dotted #012a4a;
+    box-sizing: border-box;
+}
+button{
+    color: white;
+    background-color: #3c47e6;
+    padding: 10px;
+    font-weight: bold;
+}
